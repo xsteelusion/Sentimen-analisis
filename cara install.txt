@@ -1,0 +1,2 @@
+1. buat database dengan nama 'analisis_sentimen'
+2. import 'analisis_sentimen.sql'
